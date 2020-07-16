@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+h2 {
+	text-align: center;
+}
+
+div {
+	text-align: center;
+	margin: 20px auto;
+}
+
+table {
+	width: 550px;
+	margin: 0px auto;
+	border-collapse: collapse;
+}
+
+table, tr, th, td {
+	border: 1px solid black;
+	padding: 10px;
+}
+
+thead {
+	background-color: #55aaff;
+}
+
+fieldset {
+	width: 300px;
+}
+.link {
+	text-align: center;
+}
+.content {
+	margin: 10px;
+}
+.pre {
+	text-align: justify;
+}
